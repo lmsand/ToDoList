@@ -54,6 +54,7 @@
 		C76655BC2B3408740069AFE6 /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76655BB2B3408740069AFE6 /* LoginViewViewModel.swift */; };
 		C76655BE2B34087D0069AFE6 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76655BD2B34087D0069AFE6 /* RegisterViewViewModel.swift */; };
 		C76655C02B34088A0069AFE6 /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76655BF2B34088A0069AFE6 /* ToDoListItemViewViewModel.swift */; };
+		C76655C22B3410C00069AFE6 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76655C12B3410C00069AFE6 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		C76655BB2B3408740069AFE6 /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		C76655BD2B34087D0069AFE6 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		C76655BF2B34088A0069AFE6 /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
+		C76655C12B3410C00069AFE6 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 				C76655A92B3407880069AFE6 /* LoginView.swift */,
 				C76655AB2B3407900069AFE6 /* RegisterView.swift */,
 				C76655AD2B3407CE0069AFE6 /* ToDoListItemView.swift */,
+				C76655C12B3410C00069AFE6 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C76655AA2B3407880069AFE6 /* LoginView.swift in Sources */,
+				C76655C22B3410C00069AFE6 /* HeaderView.swift in Sources */,
 				C766555B2B3403BB0069AFE6 /* MainView.swift in Sources */,
 				C76655BE2B34087D0069AFE6 /* RegisterViewViewModel.swift in Sources */,
 				C76655B42B3408300069AFE6 /* MainViewViewModel.swift in Sources */,
